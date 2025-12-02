@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on<br>Building cool stuff with AI + full-stack vibes — LLM apps, anomaly detection models, <br>and a fintech AI platform that kinda feels like cheating (but legally).<br> I’m looking to collaborate on<br>Anything involving LLMs, FastAPI, React, PyTorch, vector search, or AI-powered automation.<br>If it needs GPUs, APIs, or late-night debugging — I’m in.<br> I’m looking for help with<br>Deploying ML models like a pro, scaling vector databases, and making infra not break at 3 AM.<br> I’m currently learning<br>How to make models smarter, apps faster, and systems scalable.<br>Also diving deeper into MLOps, cloud, distributed systems, and spicy deep learning tricks.<br> Ask me about<br>AI/ML engineering, RAG, backend dev, FastAPI, React, PyTorch, LangChain, data pipelines, <br>or how I ship projects way too fast.<br>⚡ Fun fact<br>I break things just to rebuild them cleaner.<br>Also: 90% of my debugging is staring at the screen until the bug gets scared and leaves.<br>
+Solutions that feel just right don't start that way — they’re born from curiosity, iteration, and the freedom to reimagine. That mindset drives me as a Software Engineer specialized in Data Science, passionate about turning complex problems into seamless, data-driven systems.
+
+Over the years, I’ve built end-to-end solutions across AI, machine learning, and full-stack systems — from Experimenting with supercomputers to developing AI-powered chatbots and Researching Quantum computers and its processing speed, Building banking systems.
+
+I’m constantly excited to explore the true power of LLm's & intersection of machine learning, cloud computing, and intelligent automation.
 
 
 ## 🌐 Socials:
